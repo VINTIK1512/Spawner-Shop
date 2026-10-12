@@ -152,10 +152,9 @@
    📌 КАК ЗАПОЛНИТЬ:
    
    1) TELEGRAM_TOKEN — токен бота из @BotFather
-      Пример: "7123456789:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw"
+      Пример: "8906795805:AAEhRGHEEFB3NizXkiuCKpWjUNMXfgt74Tg"
    
-   2) TELEGRAM_CHAT_ID — твой ID из @userinfobot
-      Пример: "7862746520"
+   2) TELEGRAM_CHAT_ID — "7862746520"
    
    ⚠️ Кавычки НЕ убирай!
    ⚠️ Между кавычками — только твои данные, без пробелов
